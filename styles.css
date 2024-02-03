@@ -1,0 +1,113 @@
+body {
+    background-color: black;
+    color: white; 
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Your CSS styles go here */
+/* Your CSS styles go here */
+.center {
+    display: block;
+    margin-left: 20%;
+    margin-right: 70%;
+    width: 15%;
+  }
+
+  li{
+
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  /* Set a specific width for the hr element */
+/* Set a specific width for the hr element */
+/* Set a specific width for the hr element */
+hr {
+    width: 60%; /* Adjust the percentage or use pixels for a specific length */
+    margin: auto;
+    margin-right: 60%;
+    color: #e9967a;
+}
+
+
+    
+.vango { 
+
+    float: right;
+   
+   
+}
+
+.ram{
+
+    float: right;
+}
+
+.stoic{
+
+    float: right;
+}
+
+.abo{
+    float: right;
+    margin-left: 20%;
+    margin-right: 45%;
+    margin-inline: 25%;
+    margin-top: -16%;
+
+
+}
+
+.cont{
+
+    float: right;
+    margin-left: 20%;
+    margin-right: 45%;
+    margin-inline: 20%;
+    margin-top: -16%;
+}
+
+.git{
+    float: right;
+    margin-left: 20%;
+    margin-right: 45%;
+    margin-inline: 15%;
+    margin-top: -16%;
+}
+
+.blg{
+    float: right;
+    margin-left: 20%;
+    margin-right: 45%;
+    margin-inline: 11%;
+    margin-top: -16%;
+}
+
+.dude{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 110%;
+    float: right;
+    margin-left: 20%;
+    margin-right: 45%;
+    margin-inline: 9%;
+    margin-top: -13%
+
+}
+
+.dude2{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 110%;
+    float: right;
+    margin-left: 20%;
+    margin-right: 45%;
+    margin-inline: 4%;
+    margin-top: -12%
+}
+
+.copy{
+
+    font-family: Arial, Helvetica, sans-serif;
+}

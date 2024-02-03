@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white; 
+}
+
+.cat {
+
+    float: right;
+    margin-inline: 70%;
+    margin-top: -6%;
+
+}
+
+.gcat {
+
+    float: right;
+    margin-inline: 65%;
+    margin-top: -11%;
+} 
